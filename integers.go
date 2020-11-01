@@ -5,3 +5,4 @@ const MinInt = -MaxInt - 1
 
 const Zero = 0
 const One = 1
+const Two = 2
